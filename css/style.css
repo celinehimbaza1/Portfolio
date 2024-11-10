@@ -103,7 +103,7 @@
 .sub-title {
   font-family: "Edu TAS Beginner", cursive;
   font-weight: 700;
-  font-size: 21px;
+  font-size: 20px;
 }
 
 .container-fluid {
@@ -209,7 +209,7 @@
   border: 1px solid rgba(0, 0, 0, 0.08);
   background: var(--bs-white);
   color: var(--bs-body);
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 700;
   transition: 0.5s;
 }
